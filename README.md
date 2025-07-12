@@ -2,4 +2,4 @@
 
 ## Live Link
 
-**Live Application** [https://netflixmovierecommender.streamlit.app/](Netflix Movie Recommender)
+**Live Application** [Netflix Movie Recommender](https://netflixmovierecommender.streamlit.app/)
